@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+Sitemap: https://herbalove.co.id/sitemap.xml
